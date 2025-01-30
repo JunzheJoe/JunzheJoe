@@ -1,23 +1,23 @@
 <h1 align="center">
 Hi, I'm Junzhe (Joe) Zhou!  
-	<a href="https://github.com/junzhezhou" target="_self">
+	<a href="https://github.com/JunzheJoe" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 
 <p align="center">
-	<a href="https://github.com/junzhezhou">
-		<img src="https://komarev.com/ghpvc/?username=junzhezhou&label=Profile%20views&color=0e75b6&style=flat" alt="junzhezhou" />
+	<a href="https://github.com/JunzheJoe">
+		<img src="https://komarev.com/ghpvc/?username=JunzheJoe&label=Profile%20views&color=0e75b6&style=flat" alt="JunzheJoe" />
 	</a>
-	<a href="https://github.com/junzhezhou">
-		<img src="https://img.shields.io/github/followers/junzhezhou?label=Followers" alt="junzhezhou" />
+	<a href="https://github.com/JunzheJoe">
+		<img src="https://img.shields.io/github/followers/JunzheJoe?label=Followers" alt="JunzheJoe" />
 	</a>
 </p>
 
 <br/>
 
 <p align="center">
-	<a href="https://github.com/junzhezhou">
+	<a href="https://github.com/JunzheJoe">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=CS+%40+UPenn;Software+Engineer+%7C+Quant+Dev;Backend+%7C+Full+Stack+Development;Always+learning+new+things&center=true&width=500&height=45">
 	</a>
 </p>
