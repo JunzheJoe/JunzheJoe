@@ -38,7 +38,7 @@ Hi, I'm Junzhe (Joe) Zhou!
 
 ## 🛠️ My Tech Stack  
 
-### 👨‍💻 Programming Languages  
+### Programming Languages  
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
@@ -49,7 +49,7 @@ Hi, I'm Junzhe (Joe) Zhou!
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
 </p>
 
-### ☁️ Cloud & DevOps  
+### Cloud & DevOps  
 <p>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
@@ -57,7 +57,7 @@ Hi, I'm Junzhe (Joe) Zhou!
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white">
 </p>
 
-### 🏗️ Frameworks & Tools  
+### Frameworks & Tools  
 <p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%2334A853.svg?logo=springboot&logoColor=white">
     <img alt="Spring Cloud" src="https://img.shields.io/badge/Spring%20Cloud-%2334A853.svg?logo=spring&logoColor=white">
@@ -69,7 +69,7 @@ Hi, I'm Junzhe (Joe) Zhou!
     <img alt="JUnit" src="https://img.shields.io/badge/JUnit-%2325A162.svg?logo=junit5&logoColor=white">
 </p>
 
-### 🗄️ Databases & Caching  
+### Databases & Caching  
 <p>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white">
@@ -78,14 +78,14 @@ Hi, I'm Junzhe (Joe) Zhou!
     <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?logo=elasticsearch&logoColor=white">
 </p>
 
-### 🔄 Message Queue & Middleware  
+### Message Queue & Middleware  
 <p>
     <img alt="RocketMQ" src="https://img.shields.io/badge/RocketMQ-%23DC382D.svg?logo=apache&logoColor=white">
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-%23000000.svg?logo=apachekafka&logoColor=white">
     <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?logo=rabbitmq&logoColor=white">
 </p>
 
-### 🛠️ Version Control & Tools  
+### Version Control & Tools  
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black">
