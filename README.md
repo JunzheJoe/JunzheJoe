@@ -26,12 +26,9 @@ Hi, I'm Junzhe (Joe) Zhou!
 
 <pre>
 💻 Pursuing a Master's in Computer Science at the University of Pennsylvania, blending CS and Quantitative Finance.  
-📚 Former Quantitative Research (Python Developer Track) Intern at Yongan Capital Management.  
-🔧 Former Software Engineer Intern at Deloitte Consulting.  
-🚀 Backend developer at Wharton, working on AI automation for public financial reports.  
-🌱 Strengthening my expertise in backend development, microservices, and full-stack engineering.  
-📌 Preparing for 2025 Software Engineering internship opportunities.  
-🤔 I’m currently open to: <b>Software Engineering Internships</b> for Summer 2025.  
+🚀 Backend/Infrastructure Engineer at Wharton, working on AI automation for public financial reports.  
+📌 Preparing for full-time Software Engineering opportunities starting in 2026.  
+🤔 I’m currently open to: <b>Full-time Software Engineering Roles</b> for 2026.  
 </pre>
 
 <hr>
