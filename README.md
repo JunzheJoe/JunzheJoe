@@ -92,7 +92,7 @@ Hi, I'm Junzhe (Joe) Zhou!
     <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?logo=rabbitmq&logoColor=white">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Joe Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunzheJoe)](https://github.com/junzhejoe/github-readme-stats)
 
 ### 🛠️ Version Control & Tools  
 <p>
