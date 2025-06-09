@@ -4,8 +4,6 @@ Hi, I'm Junzhe (Joe) Zhou!
 	</a>
 </h1>
 
-<br/>
-
 <p align="center">
 	<a href="https://github.com/JunzheJoe">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=CS+%40+UPenn;Software+Engineer+%7C+Quant+Dev;Backend+%7C+Infrastructure+Development;Always+learning+new+things&center=true&width=500&height=45">
