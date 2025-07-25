@@ -14,9 +14,9 @@ Hi, I'm Junzhe (Joe) Zhou!
 
 <pre>
 💻 Pursuing a Master's in Computer Science at the University of Pennsylvania, blending CS and Quantitative Finance.  
-🚀 Backend/Infrastructure Engineer at Wharton, working on AI automation for public financial reports.  
-📌 Preparing for full-time Software Engineering opportunities starting in 2026.  
 🤔 I’m currently open to: <b>Full-time Software Engineering Roles</b> for 2026.  
+🤐 All my projects are kept private to prevent unauthorized copying.
+
 </pre>
 
 <hr>
