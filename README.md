@@ -16,11 +16,9 @@ Hi, I'm Junzhe (Joe) Zhou!
 💻 Pursuing a Master's in Computer Science at the University of Pennsylvania, blending CS and Quantitative Finance.  
 💼 I’m currently open to: <b>Full-time Software Engineering Roles</b> for 2026.  
 🤐 All my job markets projects are kept private to prevent unauthorized copying.
-
 </pre>
 
 <hr>
-
 
 ## 🛠️ My Tech Stack
 
