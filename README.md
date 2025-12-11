@@ -24,79 +24,96 @@ Hi, I'm Junzhe (Joe) Zhou!
 
 ## 🛠️ My Tech Stack
 
-### Languages & Tools  
+---
+
+## 🚀 Languages  
 <p>
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-    <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
-    <img alt="Shell" src="https://img.shields.io/badge/Shell-%2312100E.svg?logo=gnu-bash&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black">
-    <img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apachemaven&logoColor=white">
-    <img alt="Gradle" src="https://img.shields.io/badge/Gradle-%2302306C.svg?logo=gradle&logoColor=white">
-    <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-%23CA2132.svg?logo=python&logoColor=white">
-    <img alt="JUnit" src="https://img.shields.io/badge/JUnit-%2325A162.svg?logo=junit5&logoColor=white">
-    <img alt="Mockito" src="https://img.shields.io/badge/Mockito-%23525C86.svg?logo=java&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
+    <img alt="Shell" src="https://img.shields.io/badge/Shell-121011.svg?logo=gnu-bash&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4.svg?logo=cs&logoColor=white">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white">
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white">
+    <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F.svg?logo=scala&logoColor=white">
+    <img alt="HTML/CSS" src="https://img.shields.io/badge/HTML/CSS-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white">
 </p>
 
-### Backend  
+---
+
+## 🧰 Tools & Frameworks  
 <p>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%2334A853.svg?logo=springboot&logoColor=white">
-    <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?logo=fastapi&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?logo=junit5&logoColor=white">
+    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apachemaven&logoColor=white">
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-CA2132.svg?logo=python&logoColor=white">
 </p>
 
-### Frontend  
+---
+
+## 🗄️ Data & Messaging  
 <p>
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vue.js&logoColor=white">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white">
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
+    <img alt="Kafka" src="https://img.shields.io/badge/Kafka-000000.svg?logo=apachekafka&logoColor=white">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white">
+    <img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C.svg?logo=apachespark&logoColor=white">
+    <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-FFCD00.svg?logo=apachehadoop&logoColor=black">
+    <img alt="HBase" src="https://img.shields.io/badge/HBase-DC143C.svg?logo=apache&logoColor=white">
+    <img alt="Hive" src="https://img.shields.io/badge/Hive-FDEE21.svg?logo=apachehive&logoColor=black">
+    <img alt="MinIO" src="https://img.shields.io/badge/MinIO-C72E49.svg?logo=minio&logoColor=white">
+    <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01.svg?logo=clickhouse&logoColor=black">
 </p>
 
-### Data & Messaging  
+---
+
+## 🤖 AI / Machine Learning  
 <p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white">
-    <img alt="Kafka" src="https://img.shields.io/badge/Kafka-%23000000.svg?logo=apachekafka&logoColor=white">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?logo=rabbitmq&logoColor=white">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?logo=elasticsearch&logoColor=white">
-    <img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?logo=apachespark&logoColor=white">
-    <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%23FFCD00.svg?logo=apachehadoop&logoColor=black">
-    <img alt="HBase" src="https://img.shields.io/badge/HBase-%23DC143C.svg?logo=apache&logoColor=white">
-    <img alt="Hive" src="https://img.shields.io/badge/Hive-%23FDEE21.svg?logo=apachehive&logoColor=black">
+    <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000.svg?logo=python&logoColor=white">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
+    <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-00599C.svg?logo=python&logoColor=white">
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white">
+    <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX-005CED.svg?logo=onnx&logoColor=white">
+    <img alt="FAISS" src="https://img.shields.io/badge/FAISS-0066CC.svg?logo=facebook&logoColor=white">
+    <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-000000.svg?logo=databricks&logoColor=white">
+    <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1.svg?logo=neo4j&logoColor=white">
+    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=llama&logoColor=white">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFCC00.svg?logo=huggingface&logoColor=black">
 </p>
 
-### APIs & Security  
-<p>
-    <img alt="REST API" src="https://img.shields.io/badge/REST-%23007ACC.svg?logo=rest&logoColor=white">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23E10098.svg?logo=graphql&logoColor=white">
-    <img alt="Resilience4j" src="https://img.shields.io/badge/Resilience4j-%23000000.svg?logo=java&logoColor=white">
-    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=black">
-    <img alt="OAuth" src="https://img.shields.io/badge/OAuth-%2300A0DC.svg?logo=oauth&logoColor=white">
-    <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-%2300599C.svg?logo=keycloak&logoColor=white">
-    <img alt="Spring Gateway" src="https://img.shields.io/badge/Spring%20Gateway-%2334A853.svg?logo=spring&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white">
-</p>
+---
 
-### Cloud & DevOps  
+## ☁️ Cloud & DevOps  
 <p>
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white">
-    <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-%2312100E.svg?logo=githubactions&logoColor=white">
-    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white">
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white">
-    <img alt="Zipkin" src="https://img.shields.io/badge/Zipkin-%23A37A00.svg?logo=zipkin&logoColor=white">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=white">
+    <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=googlecloud&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6.svg?logo=microsoftazure&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white">
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white">
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white">
+    <img alt="Zipkin" src="https://img.shields.io/badge/Zipkin-A37A00.svg?logo=zipkin&logoColor=white">
 </p>
-
